@@ -1,0 +1,11 @@
+How does the follwing format structure affect the body of page :
+body {
+  color: blue;
+}
+>>||  comments  <<
+
+( )  the whole body of the page turns to blue
+(x )All html tags except th ebody turn to blue
+( ) only color text  occurences turn to blue  in the body 
+( ) none of the above
+
