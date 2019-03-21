@@ -4,8 +4,8 @@ body {
 }
 >>||  comments  <<
 
-( )  the whole body of the page turns to blue
-(x )All html tags except th ebody turn to blue
+(x)  the whole body of the page turns to blue
+()All html tags except th ebody turn to blue
 ( ) only color text  occurences turn to blue  in the body 
 ( ) none of the above
 
